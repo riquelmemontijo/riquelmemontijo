@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! 👋<br><br>Sou um desenvolvedor backend com 3 anos de experiência, trabalhando com Java, Spring Boot e Oracle. Também tenho conhecimento em Docker, JUnit, Mockito e outras tecnologias do ecossistema Java. Estou sempre buscando aprender e melhorar minhas habilidades! 🚀</p>
+<p align="left">Olá! 👋<br><br>Sou um desenvolvedor backend com 3 anos de experiência, trabalhando com Java, Spring Boot e Oracle Database. Também tenho conhecimento em Docker, JUnit, Mockito e outras tecnologias do ecossistema Java. Estou sempre buscando aprender e melhorar minhas habilidades! 🚀</p>
 
 ###
 
@@ -24,7 +24,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=riquelmemontijo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riquelmemontijo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riquelmemontijo&radius=16&theme=tokyo-day&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
